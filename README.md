@@ -1,2 +1,2 @@
-# a
+# have fun 
 code battleship
